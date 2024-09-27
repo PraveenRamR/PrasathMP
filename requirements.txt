@@ -143,7 +143,6 @@ psutil==5.9.7
 PuLP==2.7.0
 pure-eval==0.2.2
 py-cpuinfo==9.0.0
-pyarrow==12.0.1
 PyAudio==0.2.14
 pycparser==2.22
 pydantic==2.8.2
